@@ -1,14 +1,14 @@
-📦 PRODUCT RETURN ASSISTANT
+**📦 PRODUCT RETURN ASSISTANT**
 A Smart, Trust-Aware E-Commerce Return System
 
 A Python + Streamlit based Product Return Assistant that simulates how modern e-commerce platforms handle product returns using eligibility checks, fraud detection, and analytics.
 
-🔹 PROJECT OVERVIEW
+**🔹 PROJECT OVERVIEW**
 
 E-commerce returns are often slow, complex, and vulnerable to misuse.
 This project shows how return policies can be converted into simple, structured decision logic to improve speed, transparency, and user experience.
 
-🔹 PROBLEM STATEMENT
+**🔹 PROBLEM STATEMENT**
 
 Online retailers commonly face:
 
@@ -20,7 +20,7 @@ Increasing return fraud
 
 Poor post-purchase experience
 
-🔹 SOLUTION APPROACH
+**🔹 SOLUTION APPROACH**
 
 Product Return Assistant:
 
@@ -34,7 +34,7 @@ Suggests exchanges when refunds are risky
 
 Provides basic return analytics
 
-🔹 KEY FEATURES
+**🔹 KEY FEATURES**
 
 👤 User profile (name, city, trust level)
 
